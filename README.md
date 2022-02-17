@@ -33,4 +33,4 @@
 ![](/Assets/screenshots/retrieve_ss.JPG)
 ![](/Assets/screenshots/update_ss.JPG)
 ![](/Assets/screenshots/delete_ss.JPG)
-![](/Assets/screenshots/db_ss.JPG)
+![](/Assets/screenshots/ss.JPG)
